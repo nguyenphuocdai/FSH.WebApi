@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=DESKTOP-Q62UTTB;Initial Catalog=Services;Integrated Security=True;MultipleActiveResultSets=True;User Id=sa;Password=qqq111!!!"
+  }
+}
